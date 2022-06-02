@@ -1,0 +1,9 @@
+.inputmain{
+    border:  5px solid black;
+    color: black;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
